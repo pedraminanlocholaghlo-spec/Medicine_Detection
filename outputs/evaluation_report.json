@@ -1,0 +1,53 @@
+{
+  "labels_file": "C:\\Users\\Lenovo\\Desktop\\medicine\\Medicine_Recognition\\dataset\\annotations\\labels.csv",
+  "unique_labels": 2,
+  "duplicate_rows": 0,
+  "threshold": 60.0,
+  "overall": {
+    "total_processed": 2,
+    "correct_suggestions": 2,
+    "incorrect_suggestions": 0,
+    "unknown_results": 0,
+    "errors": 0,
+    "suggestion_rate": 1.0,
+    "wrong_suggestion_rate": 0.0,
+    "accuracy_on_suggestions": 1.0,
+    "average_processing_time_ms": 3272.1,
+    "max_processing_time_ms": 3775.7,
+    "p95_processing_time_ms": 3775.7,
+    "under_6_seconds": true,
+    "model_load_ms": 12194.6
+  },
+  "average_stage_times_ms": {
+    "image_loading": 31.1,
+    "preprocessing": 19.6,
+    "ocr": 3215.4,
+    "normalization": 1.5,
+    "exact_matching": 0.0,
+    "fuzzy_matching": 4.5,
+    "ranking": 0.0,
+    "total": 3272.1
+  },
+  "results": [
+    {
+      "image_name": "test1.jpg",
+      "medicine_label": "AMOXICILLIN",
+      "status": "SUGGESTED",
+      "suggested_medicine": "AMOXICILLIN",
+      "match_score": 73.7,
+      "matched_text": "AMO KCILL",
+      "outcome": "correct",
+      "processing_time_ms": 2768.6
+    },
+    {
+      "image_name": "test2.jpg",
+      "medicine_label": "METRONIDAZOLE",
+      "status": "SUGGESTED",
+      "suggested_medicine": "METRONIDAZOLE",
+      "match_score": 63.2,
+      "matched_text": "METRON",
+      "outcome": "correct",
+      "processing_time_ms": 3775.7
+    }
+  ]
+}

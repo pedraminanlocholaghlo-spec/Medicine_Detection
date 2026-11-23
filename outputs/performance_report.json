@@ -1,0 +1,50 @@
+{
+  "startup_ms": 3056.5,
+  "ocr_model_load_ms": 3056.0,
+  "config": {
+    "max_image_side": 960,
+    "ocr_det_model": "PP-OCRv5_mobile_det",
+    "ocr_rec_model": "en_PP-OCRv3_mobile_rec",
+    "ocr_rec_batch_size": 16
+  },
+  "summary": {
+    "total_processed": 6,
+    "average_processing_time_ms": 2765.8,
+    "median_processing_time_ms": 2739.1,
+    "max_processing_time_ms": 3596.8,
+    "min_processing_time_ms": 1979.5,
+    "p95_processing_time_ms": 3596.8,
+    "under_6_seconds": true
+  },
+  "average_stage_ms": {
+    "image_loading": 17.0,
+    "preprocessing": 1.7,
+    "ocr": 2745.6,
+    "normalization": 1.2,
+    "exact_matching": 0.0,
+    "fuzzy_matching": 0.1,
+    "ranking": 0.0
+  },
+  "per_image": [
+    {
+      "image": "test1.jpg",
+      "runs_ms": [
+        1984.9,
+        1979.5,
+        2022.5
+      ],
+      "average_ms": 1995.6,
+      "max_ms": 2022.5
+    },
+    {
+      "image": "test2.jpg",
+      "runs_ms": [
+        3555.2,
+        3596.8,
+        3455.6
+      ],
+      "average_ms": 3535.9,
+      "max_ms": 3596.8
+    }
+  ]
+}

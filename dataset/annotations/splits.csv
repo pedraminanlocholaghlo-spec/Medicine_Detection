@@ -1,0 +1,193 @@
+image_name,medicine_label,kind,split
+LABEL_ONLY_001.jpg,AMOXICILLIN,in_dataset,tuning
+LABEL_ONLY_002.jpg,METRONIDAZOLE,in_dataset,test
+LABEL_ONLY_003.jpg,ACETAMINOPHEN,in_dataset,test
+LABEL_ONLY_004.jpg,IBUPROFEN,in_dataset,tuning
+LABEL_ONLY_005.jpg,NAPROXEN,in_dataset,tuning
+LABEL_ONLY_006.jpg,DICLOFENAC,in_dataset,tuning
+LABEL_ONLY_007.jpg,CELECOXIB,in_dataset,tuning
+LABEL_ONLY_008.jpg,MEFENAMIC ACID,in_dataset,tuning
+LABEL_ONLY_009.jpg,ASPIRIN,in_dataset,test
+LABEL_ONLY_010.jpg,KETOROLAC,in_dataset,tuning
+LABEL_ONLY_011.jpg,MELOXICAM,in_dataset,tuning
+LABEL_ONLY_012.jpg,PIROXICAM,in_dataset,tuning
+LABEL_ONLY_013.jpg,TRAMADOL,in_dataset,tuning
+LABEL_ONLY_014.jpg,CODEINE,in_dataset,tuning
+LABEL_ONLY_015.jpg,AMOXICILLIN CLAVULANATE,in_dataset,tuning
+LABEL_ONLY_016.jpg,AZITHROMYCIN,in_dataset,tuning
+LABEL_ONLY_017.jpg,CLARITHROMYCIN,in_dataset,test
+LABEL_ONLY_018.jpg,ERYTHROMYCIN,in_dataset,test
+LABEL_ONLY_019.jpg,CEPHALEXIN,in_dataset,tuning
+LABEL_ONLY_020.jpg,CEFIXIME,in_dataset,test
+LABEL_ONLY_021.jpg,CEFTRIAXONE,in_dataset,test
+LABEL_ONLY_022.jpg,CEFUROXIME,in_dataset,tuning
+LABEL_ONLY_023.jpg,CEFPODOXIME,in_dataset,tuning
+LABEL_ONLY_024.jpg,CIPROFLOXACIN,in_dataset,test
+LABEL_ONLY_025.jpg,LEVOFLOXACIN,in_dataset,tuning
+LABEL_ONLY_026.jpg,TINIDAZOLE,in_dataset,tuning
+LABEL_ONLY_027.jpg,DOXYCYCLINE,in_dataset,tuning
+LABEL_ONLY_028.jpg,CLINDAMYCIN,in_dataset,tuning
+LABEL_ONLY_029.jpg,CO TRIMOXAZOLE,in_dataset,tuning
+LABEL_ONLY_030.jpg,NITROFURANTOIN,in_dataset,tuning
+LABEL_ONLY_031.jpg,FOSFOMYCIN,in_dataset,test
+LABEL_ONLY_032.jpg,GENTAMICIN,in_dataset,tuning
+LABEL_ONLY_033.jpg,VANCOMYCIN,in_dataset,tuning
+LABEL_ONLY_034.jpg,MEROPENEM,in_dataset,tuning
+LABEL_ONLY_035.jpg,PENICILLIN V,in_dataset,tuning
+LABEL_ONLY_036.jpg,FLUCONAZOLE,in_dataset,tuning
+LABEL_ONLY_037.jpg,CLOTRIMAZOLE,in_dataset,tuning
+LABEL_ONLY_038.jpg,TERBINAFINE,in_dataset,tuning
+LABEL_ONLY_039.jpg,ACYCLOVIR,in_dataset,test
+LABEL_ONLY_040.jpg,VALACICLOVIR,in_dataset,tuning
+LABEL_ONLY_041.jpg,OMEPRAZOLE,in_dataset,test
+LABEL_ONLY_042.jpg,PANTOPRAZOLE,in_dataset,tuning
+LABEL_ONLY_043.jpg,ESOMEPRAZOLE,in_dataset,tuning
+LABEL_ONLY_044.jpg,LANSOPRAZOLE,in_dataset,tuning
+LABEL_ONLY_045.jpg,FAMOTIDINE,in_dataset,tuning
+LABEL_ONLY_046.jpg,CIMETIDINE,in_dataset,tuning
+LABEL_ONLY_047.jpg,DOMPERIDONE,in_dataset,tuning
+LABEL_ONLY_048.jpg,METOCLOPRAMIDE,in_dataset,test
+LABEL_ONLY_049.jpg,ONDANSETRON,in_dataset,tuning
+LABEL_ONLY_050.jpg,DIMENHYDRINATE,in_dataset,test
+LABEL_ONLY_051.jpg,HYOSCINE BUTYLBROMIDE,in_dataset,tuning
+LABEL_ONLY_052.jpg,LOPERAMIDE,in_dataset,test
+LABEL_ONLY_053.jpg,BISACODYL,in_dataset,tuning
+LABEL_ONLY_054.jpg,LACTULOSE,in_dataset,tuning
+LABEL_ONLY_055.jpg,POLYETHYLENE GLYCOL,in_dataset,tuning
+LABEL_ONLY_056.jpg,MESALAZINE,in_dataset,test
+LABEL_ONLY_057.jpg,LOSARTAN,in_dataset,test
+LABEL_ONLY_058.jpg,VALSARTAN,in_dataset,test
+LABEL_ONLY_059.jpg,TELMISARTAN,in_dataset,test
+LABEL_ONLY_060.jpg,CANDESARTAN,in_dataset,tuning
+LABEL_ONLY_061.jpg,ENALAPRIL,in_dataset,tuning
+LABEL_ONLY_062.jpg,LISINOPRIL,in_dataset,tuning
+LABEL_ONLY_063.jpg,CAPTOPRIL,in_dataset,tuning
+LABEL_ONLY_064.jpg,AMLODIPINE,in_dataset,tuning
+LABEL_ONLY_065.jpg,NIFEDIPINE,in_dataset,tuning
+LABEL_ONLY_066.jpg,VERAPAMIL,in_dataset,tuning
+LABEL_ONLY_067.jpg,DILTIAZEM,in_dataset,test
+LABEL_ONLY_068.jpg,METOPROLOL,in_dataset,tuning
+LABEL_ONLY_069.jpg,PROPRANOLOL,in_dataset,test
+LABEL_ONLY_070.jpg,ATENOLOL,in_dataset,tuning
+LABEL_ONLY_071.jpg,CARVEDILOL,in_dataset,tuning
+LABEL_ONLY_072.jpg,HYDROCHLOROTHIAZIDE,in_dataset,tuning
+LABEL_ONLY_073.jpg,FUROSEMIDE,in_dataset,tuning
+LABEL_ONLY_074.jpg,SPIRONOLACTONE,in_dataset,tuning
+LABEL_ONLY_075.jpg,ATORVASTATIN,in_dataset,test
+LABEL_ONLY_076.jpg,ROSUVASTATIN,in_dataset,tuning
+LABEL_ONLY_077.jpg,SIMVASTATIN,in_dataset,test
+LABEL_ONLY_078.jpg,EZETIMIBE,in_dataset,tuning
+LABEL_ONLY_079.jpg,CLOPIDOGREL,in_dataset,tuning
+LABEL_ONLY_080.jpg,WARFARIN,in_dataset,tuning
+LABEL_ONLY_081.jpg,APIXABAN,in_dataset,tuning
+LABEL_ONLY_082.jpg,RIVAROXABAN,in_dataset,test
+LABEL_ONLY_083.jpg,DIGOXIN,in_dataset,tuning
+LABEL_ONLY_084.jpg,ISOSORBIDE MONONITRATE,in_dataset,tuning
+LABEL_ONLY_085.jpg,NITROGLYCERIN,in_dataset,tuning
+LABEL_ONLY_086.jpg,METFORMIN,in_dataset,test
+LABEL_ONLY_087.jpg,GLICLAZIDE,in_dataset,tuning
+LABEL_ONLY_088.jpg,GLIMEPIRIDE,in_dataset,tuning
+LABEL_ONLY_089.jpg,SITAGLIPTIN,in_dataset,tuning
+LABEL_ONLY_090.jpg,LINAGLIPTIN,in_dataset,test
+LABEL_ONLY_091.jpg,EMPAGLIFLOZIN,in_dataset,test
+LABEL_ONLY_092.jpg,DAPAGLIFLOZIN,in_dataset,tuning
+LABEL_ONLY_093.jpg,INSULIN GLARGINE,in_dataset,tuning
+LABEL_ONLY_094.jpg,INSULIN ASPART,in_dataset,tuning
+LABEL_ONLY_095.jpg,LEVOTHYROXINE,in_dataset,tuning
+LABEL_ONLY_096.jpg,METHIMAZOLE,in_dataset,test
+LABEL_ONLY_097.jpg,PREDNISOLONE,in_dataset,tuning
+LABEL_ONLY_098.jpg,PREDNISONE,in_dataset,tuning
+LABEL_ONLY_099.jpg,DEXAMETHASONE,in_dataset,tuning
+LABEL_ONLY_100.jpg,HYDROCORTISONE,in_dataset,tuning
+LABEL_ONLY_101.jpg,METHYLPREDNISOLONE,in_dataset,tuning
+LABEL_ONLY_102.jpg,CETIRIZINE,in_dataset,test
+LABEL_ONLY_103.jpg,LORATADINE,in_dataset,tuning
+LABEL_ONLY_104.jpg,FEXOFENADINE,in_dataset,test
+LABEL_ONLY_105.jpg,DESLORATADINE,in_dataset,tuning
+LABEL_ONLY_106.jpg,CHLORPHENIRAMINE,in_dataset,tuning
+LABEL_ONLY_107.jpg,MONTELUKAST,in_dataset,tuning
+LABEL_ONLY_108.jpg,SALBUTAMOL,in_dataset,tuning
+LABEL_ONLY_109.jpg,TERBUTALINE,in_dataset,tuning
+LABEL_ONLY_110.jpg,BUDESONIDE,in_dataset,tuning
+LABEL_ONLY_111.jpg,FLUTICASONE,in_dataset,tuning
+LABEL_ONLY_112.jpg,BECLOMETASONE,in_dataset,tuning
+LABEL_ONLY_113.jpg,IPRATROPIUM,in_dataset,test
+LABEL_ONLY_114.jpg,TIOTROPIUM,in_dataset,tuning
+LABEL_ONLY_115.jpg,THEOPHYLLINE,in_dataset,tuning
+LABEL_ONLY_116.jpg,ACETYLCYSTEINE,in_dataset,tuning
+LABEL_ONLY_117.jpg,BROMHEXINE,in_dataset,tuning
+LABEL_ONLY_118.jpg,GUAIFENESIN,in_dataset,test
+LABEL_ONLY_119.jpg,SERTRALINE,in_dataset,test
+LABEL_ONLY_120.jpg,FLUOXETINE,in_dataset,tuning
+LABEL_ONLY_121.jpg,CITALOPRAM,in_dataset,tuning
+LABEL_ONLY_122.jpg,ESCITALOPRAM,in_dataset,tuning
+LABEL_ONLY_123.jpg,VENLAFAXINE,in_dataset,tuning
+LABEL_ONLY_124.jpg,DULOXETINE,in_dataset,test
+LABEL_ONLY_125.jpg,AMITRIPTYLINE,in_dataset,test
+LABEL_ONLY_126.jpg,MIRTAZAPINE,in_dataset,test
+LABEL_ONLY_127.jpg,BUPROPION,in_dataset,tuning
+LABEL_ONLY_128.jpg,ALPRAZOLAM,in_dataset,tuning
+LABEL_ONLY_129.jpg,DIAZEPAM,in_dataset,tuning
+LABEL_ONLY_130.jpg,CLONAZEPAM,in_dataset,tuning
+LABEL_ONLY_131.jpg,ZOLPIDEM,in_dataset,test
+LABEL_ONLY_132.jpg,MELATONIN,in_dataset,test
+LABEL_ONLY_133.jpg,SODIUM VALPROATE,in_dataset,tuning
+LABEL_ONLY_134.jpg,CARBAMAZEPINE,in_dataset,tuning
+LABEL_ONLY_135.jpg,LEVETIRACETAM,in_dataset,tuning
+LABEL_ONLY_136.jpg,LAMOTRIGINE,in_dataset,tuning
+LABEL_ONLY_137.jpg,PHENYTOIN,in_dataset,tuning
+LABEL_ONLY_138.jpg,GABAPENTIN,in_dataset,tuning
+LABEL_ONLY_139.jpg,PREGABALIN,in_dataset,tuning
+LABEL_ONLY_140.jpg,TOPIRAMATE,in_dataset,tuning
+LABEL_ONLY_141.jpg,PARACETAMOL,in_dataset,tuning
+LABEL_ONLY_142.jpg,VITAMIN D3,in_dataset,test
+LABEL_ONLY_143.jpg,CHOLECALCIFEROL,in_dataset,tuning
+LABEL_ONLY_144.jpg,CALCIUM CARBONATE,in_dataset,tuning
+LABEL_ONLY_145.jpg,CALCIUM VITAMIN D,in_dataset,tuning
+LABEL_ONLY_146.jpg,FERROUS SULFATE,in_dataset,tuning
+LABEL_ONLY_147.jpg,FOLIC ACID,in_dataset,tuning
+LABEL_ONLY_148.jpg,CYANOCOBALAMIN,in_dataset,test
+LABEL_ONLY_149.jpg,VITAMIN B1,in_dataset,test
+LABEL_ONLY_150.jpg,VITAMIN B6,in_dataset,test
+LABEL_ONLY_151.jpg,VITAMIN B12,in_dataset,test
+LABEL_ONLY_152.jpg,ZINC SULFATE,in_dataset,tuning
+LABEL_ONLY_153.jpg,MAGNESIUM OXIDE,in_dataset,tuning
+LABEL_ONLY_154.jpg,POTASSIUM CHLORIDE,in_dataset,test
+LABEL_ONLY_155.jpg,ORAL REHYDRATION SALTS,in_dataset,test
+LABEL_ONLY_156.jpg,THIAMINE,in_dataset,tuning
+LABEL_ONLY_157.jpg,ASCORBIC ACID,in_dataset,test
+LABEL_ONLY_158.jpg,ALLOPURINOL,in_dataset,test
+LABEL_ONLY_159.jpg,COLCHICINE,in_dataset,tuning
+LABEL_ONLY_160.jpg,FEBUXOSTAT,in_dataset,test
+LABEL_ONLY_161.jpg,TAMSULOSIN,in_dataset,test
+LABEL_ONLY_162.jpg,FINASTERIDE,in_dataset,test
+LABEL_ONLY_163.jpg,DUTASTERIDE,in_dataset,tuning
+LABEL_ONLY_164.jpg,SILDENAFIL,in_dataset,tuning
+LABEL_ONLY_165.jpg,TADALAFIL,in_dataset,tuning
+LABEL_ONLY_166.jpg,ETHINYLESTRADIOL LEVONORGESTREL,in_dataset,test
+LABEL_ONLY_167.jpg,PROGESTERONE,in_dataset,tuning
+LABEL_ONLY_168.jpg,MEDROXYPROGESTERONE,in_dataset,tuning
+LABEL_ONLY_169.jpg,TRANEXAMIC ACID,in_dataset,tuning
+LABEL_ONLY_170.jpg,IRON SUCROSE,in_dataset,test
+LABEL_ONLY_171.jpg,ENOXAPARIN,in_dataset,tuning
+LABEL_ONLY_172.jpg,HEPARIN,in_dataset,tuning
+LABEL_ONLY_173.jpg,METHOTREXATE,in_dataset,tuning
+LABEL_ONLY_174.jpg,AZATHIOPRINE,in_dataset,test
+LABEL_ONLY_175.jpg,HYDROXYCHLOROQUINE,in_dataset,tuning
+LABEL_ONLY_176.jpg,CYCLOSPORINE,in_dataset,test
+LABEL_ONLY_177.jpg,MYCOPHENOLATE MOFETIL,in_dataset,tuning
+LABEL_ONLY_178.jpg,LATANOPROST,in_dataset,tuning
+LABEL_ONLY_179.jpg,TIMOLOL,in_dataset,tuning
+LABEL_ONLY_180.jpg,ARTIFICIAL TEARS,in_dataset,tuning
+LABEL_ONLY_181.jpg,CHLORAMPHENICOL,in_dataset,test
+LABEL_ONLY_182.jpg,TOBRAMYCIN,in_dataset,tuning
+LABEL_ONLY_183.jpg,BETAHISTINE,in_dataset,tuning
+LABEL_ONLY_184.jpg,MECLIZINE,in_dataset,tuning
+LABEL_ONLY_185.jpg,CINNARIZINE,in_dataset,tuning
+LABEL_ONLY_186.jpg,SUMATRIPTAN,in_dataset,test
+LABEL_ONLY_187.jpg,RIZATRIPTAN,in_dataset,test
+LABEL_ONLY_188.jpg,RIFAMPICIN,in_dataset,tuning
+LABEL_ONLY_189.jpg,ISONIAZID,in_dataset,test
+LABEL_ONLY_190.jpg,PYRAZINAMIDE,in_dataset,tuning
+LABEL_ONLY_191.jpg,ETHAMBUTOL,in_dataset,tuning
+LABEL_ONLY_192.jpg,ARTEMETHER LUMEFANTRINE,in_dataset,test
